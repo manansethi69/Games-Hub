@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|c:\\users\\msset\\mi_kmaw-kina_matnewey\\assets\\scripts\\powerups\\powerupinventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerups\\powerupinventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|c:\\users\\msset\\mi_kmaw-kina_matnewey\\assets\\scripts\\shop\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shop\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|c:\\users\\msset\\mi_kmaw-kina_matnewey\\assets\\scripts\\powerups\\powerupinventorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerups\\powerupinventorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|c:\\users\\msset\\mi_kmaw-kina_matnewey\\assets\\scripts\\powerups\\powerupinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerups\\powerupinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|c:\\users\\msset\\mi_kmaw-kina_matnewey\\assets\\miscellaneous\\flashcards\\flashcards_sofia\\answerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|solutionrelative:assets\\miscellaneous\\flashcards\\flashcards_sofia\\answerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|c:\\users\\msset\\mi_kmaw-kina_matnewey\\assets\\scripts\\powerups\\poweruptimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerups\\poweruptimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|C:\\Users\\msset\\mi_kmaw-kina_matnewey\\assets\\scripts\\asher_flashcards\\flashcardflip1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\asher_flashcards\\flashcardflip1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|C:\\Users\\msset\\mi_kmaw-kina_matnewey\\assets\\scripts\\player\\healthcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\healthcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|C:\\Users\\msset\\mi_kmaw-kina_matnewey\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|C:\\Users\\msset\\mi_kmaw-kina_matnewey\\assets\\scripts\\ui\\creditsswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F55C336-F735-0734-154F-4B0B385BE663}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\creditsswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "powerUpInventoryData.cs",
+              "DocumentMoniker": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Powerups\\powerUpInventoryData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Powerups\\powerUpInventoryData.cs",
+              "ToolTip": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Powerups\\powerUpInventoryData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Powerups\\powerUpInventoryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:53:57.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "powerUpInventory.cs",
+              "DocumentMoniker": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Powerups\\powerUpInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Powerups\\powerUpInventory.cs",
+              "ToolTip": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Powerups\\powerUpInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Powerups\\powerUpInventory.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAALYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:53:43.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "powerUpInventorySlot.cs",
+              "DocumentMoniker": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Powerups\\powerUpInventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Powerups\\powerUpInventorySlot.cs",
+              "ToolTip": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Powerups\\powerUpInventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Powerups\\powerUpInventorySlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:44:47.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "powerupTimer.cs",
+              "DocumentMoniker": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Powerups\\powerupTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Powerups\\powerupTimer.cs",
+              "ToolTip": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Powerups\\powerupTimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Powerups\\powerupTimer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:44:17.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopItem.cs",
+              "DocumentMoniker": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Shop\\ShopItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shop\\ShopItem.cs",
+              "ToolTip": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Shop\\ShopItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shop\\ShopItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:42:11.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnswerScript.cs",
+              "DocumentMoniker": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Miscellaneous\\FlashCards\\FlashCards_Sofia\\AnswerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Miscellaneous\\FlashCards\\FlashCards_Sofia\\AnswerScript.cs",
+              "ToolTip": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Miscellaneous\\FlashCards\\FlashCards_Sofia\\AnswerScript.cs",
+              "RelativeToolTip": "Assets\\Miscellaneous\\FlashCards\\FlashCards_Sofia\\AnswerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:36:42.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlashCardFlip1.cs",
+              "DocumentMoniker": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Asher_FlashCards\\FlashCardFlip1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Asher_FlashCards\\FlashCardFlip1.cs",
+              "ToolTip": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Asher_FlashCards\\FlashCardFlip1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Asher_FlashCards\\FlashCardFlip1.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:36:15.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "healthcontrol.cs",
+              "DocumentMoniker": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Player\\healthcontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\healthcontrol.cs",
+              "ToolTip": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Player\\healthcontrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\healthcontrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:16:49.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwG4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:40:10.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreditsSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\UI\\CreditsSwitch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CreditsSwitch.cs",
+              "ToolTip": "C:\\Users\\msset\\mi_kmaw-kina_matnewey\\Assets\\Scripts\\UI\\CreditsSwitch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CreditsSwitch.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIBJwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:45:32.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
