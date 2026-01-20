@@ -1,5 +1,18 @@
 # Mi'kmaw Kina'matnewey
 
+## Description
+
+The purpose of the game is to create an engaging and interactive experience to promote the learning of Mi'kmaq content. It was created using C in Unity, intended for mobile app deployment. The game involves a user who is able to use a character to match Mi’kmaq words (given by a Boss) to an image and obtain coins for correct answers, or lose “lives” for incorrect ones. 3 incorrect answers would require the user to restart. This game features 2D-scrolling, similar to Mario and Sonic games. It includes boss-battles that involve matching corresponding Mi’kmaq words to defeat said boss. 
+
+## Snapchats
+
+<img width="949" height="437" alt="Screenshot 2026-01-20 180104" src="https://github.com/user-attachments/assets/fa7555fc-eb69-4253-bcc1-e09a6b049a10" />
+<img width="948" height="435" alt="Screenshot 2026-01-20 180309" src="https://github.com/user-attachments/assets/a7050f62-bd41-45ff-aff6-3b75aa3de823" />
+<img width="949" height="436" alt="Screenshot 2026-01-20 180336" src="https://github.com/user-attachments/assets/2bc99109-c255-482c-be4a-03f09123c22a" />
+<img width="954" height="440" alt="Screenshot 2026-01-20 180151" src="https://github.com/user-attachments/assets/ff8c691c-60c9-4079-8fea-a15316b938ab" />
+<img width="948" height="437" alt="Screenshot 2026-01-20 180211" src="https://github.com/user-attachments/assets/4d9caec8-8496-4000-8a21-7f656c4dc4d6" />
+
+
 - [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
 - [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
@@ -27,10 +40,6 @@ git push -uf origin main
 ## Name
 
 Mi'kmaw Kina'matnewey
-
-## Description
-
-The purpose of the game is to create an engaging and interactive experience to promote the learning of Mi'kmaq content. It was created using C in Unity, intended for mobile app deployment. The game involves a user who is able to use a character to match Mi’kmaq words (given by a Boss) to an image and obtain coins for correct answers, or lose “lives” for incorrect ones. 3 incorrect answers would require the user to restart. This game features 2D-scrolling, similar to Mario and Sonic games. It includes boss-battles that involve matching corresponding Mi’kmaq words to defeat said boss. 
 
 
 ## Installation
