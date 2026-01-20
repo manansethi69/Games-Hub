@@ -1,5 +1,8 @@
 # Mi'kmaw Kina'matnewey
 
+<img width="949" height="437" alt="Screenshot 2026-01-20 180104" src="https://github.com/user-attachments/assets/fa7555fc-eb69-4253-bcc1-e09a6b049a10" />
+
+
 - [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
 - [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
