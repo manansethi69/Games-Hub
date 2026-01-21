@@ -30,6 +30,15 @@ If you want to see the full report and build artifacts, check the `Final-Project
 
 ---
 
+## SnapShots
+
+<img width="730" height="371" alt="Screenshot 2024-12-01 145123" src="https://github.com/user-attachments/assets/640f6860-b0a9-4639-8bee-c956ec52e3a8" />
+<img width="509" height="567" alt="image" src="https://github.com/user-attachments/assets/7c44f06b-b4b3-4426-935d-7202d8aa432b" />
+<img width="873" height="270" alt="image" src="https://github.com/user-attachments/assets/b1f55581-f7e4-4460-8533-a30bfdfae6b4" />
+<img width="895" height="725" alt="image" src="https://github.com/user-attachments/assets/1842a058-2a11-4318-9e65-57e4b502f2cd" />
+
+---
+
 ## Design & Implementation
 
 - **Level and combat design**  
